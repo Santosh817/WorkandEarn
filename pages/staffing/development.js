@@ -230,7 +230,7 @@ const Development = () => {
         <div className="min-h-screen flex flex-col">
 
             {/* ============== Head Tag =============== */}
-            <HeadTag title="IT Staffing Solutions: Get Top Development & IT Talent with Brenda"/>
+            <HeadTag title="IT Staffing Solutions: Get Top Development & IT Talent with Work&Earn"/>
 
             {/* ============== Navbar ============ */}
             <header className="header-bg">
@@ -839,7 +839,7 @@ const Development = () => {
                                     When you need to move important work forward, working with Talent Scout makes finding the highly skilled talent you need easy, fast, and cost effective. 
                                 </p>
                                 <p className={`mt-2 text-zinc-600 xl:text-xl sm:text-lg text-md ${(showQues == true) ? "block" : "hidden"}`}>
-                                    Our specialized recruiters have experience in the legal industry that enables them to do the heavy lifting on your behalf. In as few as two days, they’ll get back to you with a curated list of pre-vetted remote professionals who tick all the right boxes, selected from the global pool of talent on Brenda.
+                                    Our specialized recruiters have experience in the legal industry that enables them to do the heavy lifting on your behalf. In as few as two days, they’ll get back to you with a curated list of pre-vetted remote professionals who tick all the right boxes, selected from the global pool of talent on Work&Earn.
                                 </p>
                                 <p className={`mt-2 text-zinc-600 xl:text-xl sm:text-lg text-md ${(showQues == true) ? "block" : "hidden"}`}>
                                     You don’t pay until you choose a professional who’s a good match for your project, and  you avoid the high fees and markups that are typical for traditional recruiting firms.

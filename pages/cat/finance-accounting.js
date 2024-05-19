@@ -193,7 +193,7 @@ const FinanceAccounting = () => {
   return (
     <div className="min-h-screen flex flex-col">
         {/* ============== Head Tag =============== */}
-        <HeadTag title="Top Finance & Accouting Talent Experts for Hire in July 2022 | Brenda"/>
+        <HeadTag title="Top Finance & Accouting Talent Experts for Hire in July 2022 | Work&Earn"/>
 
         {/* ================= Header ================= */}
         <header className="header-bg">
@@ -224,7 +224,7 @@ const FinanceAccounting = () => {
                 contracts="9.7K+ contracts"
                 contractsText="Involving finance and accounting work in the past year"
                 skills="102 skills"
-                skillsText="Represented by talent on Brenda"
+                skillsText="Represented by talent on Work&Earn"
                 cardData={CardData}
             />
 

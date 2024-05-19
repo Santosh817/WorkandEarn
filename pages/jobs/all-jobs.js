@@ -40,7 +40,7 @@ const AllJobs = () => {
         <div className="min-h-screen flex flex-col">
 
             {/* ============== Head Tag =============== */}
-            <HeadTag title="Freelance All Jobs - Brenda"/>
+            <HeadTag title="Freelance All Jobs - Work&Earn"/>
 
             {/* ================== Header =================== */}
             <header className="header-bg">

@@ -18,7 +18,7 @@ const HowToHire = () => {
         <div className="min-h-screen flex flex-col">
 
             {/* ============== Head Tag =============== */}
-            <HeadTag title="How Does Brenda Work for Client"/>
+            <HeadTag title="How Does Work&Earn Work for Client"/>
 
             {/* ================= Header ================= */}
             <header className="header-bg">
@@ -470,7 +470,7 @@ const HowToHire = () => {
                         <div className="lg:px-7 sm:px-5 px-0 sm:py-5 py-3">
                             <div className="border-b border-zinc-300 xl:py-7 sm:py-5 py-3 space-y-2">
                                 <h4 className="xl:text-3xl sm:text-2xl text-xl font-semibold text-zinc-800">
-                                    What projects can I do on Brenda?
+                                    What projects can I do on Work&Earn?
                                 </h4>
                                 <p className="text-zinc-600 xl:text-xl sm:text-lg text-md">
                                     Anything people generally do on a computer. Popular tasks are web, mobile and software development, design work and copywriting, but you can also find lawyers, accountants and more.
@@ -479,7 +479,7 @@ const HowToHire = () => {
 
                             <div className="border-b border-zinc-300 xl:py-7 sm:py-5 py-3 space-y-2">
                                 <h4 className="xl:text-3xl sm:text-2xl text-xl font-semibold text-zinc-800">
-                                    How does Brenda make money?
+                                    How does Work&Earn make money?
                                 </h4>
                                 <p className="text-zinc-600 xl:text-xl text-lg text-md">
                                     When our specialized recruiters share your shortlist with you, they’ll include the hourly rate for each professional – that’s all you’ll pay: there aren’t any extra fees outside 

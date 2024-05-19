@@ -1181,7 +1181,7 @@ const AriticlesBlogPosts = () => {
         <div className="min-h-screen flex flex-col">
 
             {/* ============== Head Tag =============== */}
-            <HeadTag title="Articles & Blog Writing Services | Brenda"/>
+            <HeadTag title="Articles & Blog Writing Services | Work&Earn"/>
 
             {/* ================= Header ================= */}
             <header className="header-bg">

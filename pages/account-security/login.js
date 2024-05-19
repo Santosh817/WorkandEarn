@@ -20,7 +20,7 @@ const Login = () => {
         <div className="min-h-screen flex flex-col">
 
             {/* ============== Head Tag =============== */}
-            <HeadTag title="Log In - Brenda"/>
+            <HeadTag title="Log In - Work&Earn"/>
 
             {/* ================== Header =================== */}
             <LoginSignupHeader/>
@@ -32,7 +32,7 @@ const Login = () => {
                         <div className="sm:px-24 sm:pt-7 pb-7 flex flex-col justify-center items-center">
                             {/* ================= Login title ==================== */}
                             <h2 className="font-semibold text-zinc-800 md:text-3xl text-2xl">
-                                Log in to Brenda
+                                Log in to Work&Earn
                             </h2>
 
                             {/* ================= Login Email Form ==================== */}
@@ -74,7 +74,7 @@ const Login = () => {
                         <div className="lg:px-24 py-7 flex flex-col justify-center items-center border-t border-gray-300 mt-7">
                             {/* ================= Or section ==================== */}
                             <div className="flex w-full justify-center items-center">
-                                <span className="text-zinc-600"> Don't have an Brenda Account? </span>
+                                <span className="text-zinc-600"> Don't have an Work&Earn Account? </span>
                             </div>
                             {/* ============== */}
                             <div className="sm:w-auto w-full">

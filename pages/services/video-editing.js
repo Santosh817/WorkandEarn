@@ -1182,7 +1182,7 @@ const VideoEditing = () => {
         <div className="min-h-screen flex flex-col">
 
             {/* ============== Head Tag =============== */}
-            <HeadTag title="Video Editing & Post Production | Brenda"/>
+            <HeadTag title="Video Editing & Post Production | Work&Earn"/>
 
             {/* ================= Header ================= */}
             <header className="header-bg">

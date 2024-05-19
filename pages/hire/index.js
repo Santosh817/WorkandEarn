@@ -375,7 +375,7 @@ const Hire = () => {
         <div className="min-h-screen flex flex-col">
             
             {/* ============== Head Tag =============== */}
-            <HeadTag title="Hire Freelancers and Professionals | Brenda"/>
+            <HeadTag title="Hire Freelancers and Professionals | Work&Earn"/>
 
             {/* ================= Header ================= */}
             <header className="header-bg">

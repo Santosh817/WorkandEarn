@@ -159,7 +159,7 @@ const SuccessStories = () => {
     return (
         <div className="min-h-screen flex flex-col">
             {/* ============== Head Tag =============== */}
-            <HeadTag title="Success Stories | Brenda"/>
+            <HeadTag title="Success Stories | Work&Earn"/>
             
             {/* ================= Header ================= */}
             <header className="header-bg">
@@ -191,7 +191,7 @@ const SuccessStories = () => {
                             Success Stories
                         </h2>
                         <p className="font-semibold lg:text-xl text-lg text-zinc-600">
-                            See how Brenda helps businesses like yours grow and succeed.
+                            See how Work&Earn helps businesses like yours grow and succeed.
                         </p>
                     </motion.div>
                 </div>
@@ -386,7 +386,7 @@ const SuccessStories = () => {
 
                             <div className="mt-3">
                                 <h2 className="text-zinc-800 font-semibold text-xl cursor-pointer">
-                                    Why Remote Work Is the Strength Behind Brenda’s Social Media Team
+                                    Why Remote Work Is the Strength Behind Work&Earn’s Social Media Team
                                 </h2>
                             </div>
                         </div>
@@ -418,7 +418,7 @@ const SuccessStories = () => {
 
                             <div className="mt-3">
                                 <h2 className="text-zinc-800 font-semibold text-xl cursor-pointer">
-                                    How Engineering Teams Use Brenda To Scale
+                                    How Engineering Teams Use Work&Earn To Scale
                                 </h2>
                             </div>
                         </div>
@@ -450,7 +450,7 @@ const SuccessStories = () => {
 
                             <div className="mt-3">
                                 <h2 className="text-zinc-800 font-semibold text-xl cursor-pointer">
-                                    How Customer Service Teams use Brenda to Scale
+                                    How Customer Service Teams use Work&Earn to Scale
                                 </h2>
                             </div>
                         </div>
@@ -482,7 +482,7 @@ const SuccessStories = () => {
 
                             <div className="mt-3">
                                 <h2 className="text-zinc-800 font-semibold text-xl cursor-pointer">
-                                    How Marketing Teams Use Brenda To Scale
+                                    How Marketing Teams Use Work&Earn To Scale
                                 </h2>
                             </div>
                         </div>
@@ -514,7 +514,7 @@ const SuccessStories = () => {
 
                             <div className="mt-3">
                                 <h2 className="text-zinc-800 font-semibold text-xl cursor-pointer">
-                                    How Engineering Teams Use Brenda To Scale
+                                    How Engineering Teams Use Work&Earn To Scale
                                 </h2>
                             </div>
                         </div>
@@ -546,7 +546,7 @@ const SuccessStories = () => {
 
                             <div className="mt-3">
                                 <h2 className="text-zinc-800 font-semibold text-xl cursor-pointer">
-                                    How Engineering Teams Use Brenda To Scale
+                                    How Engineering Teams Use Work&Earn To Scale
                                 </h2>
                             </div>
                         </div>

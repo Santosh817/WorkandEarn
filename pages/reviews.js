@@ -270,11 +270,11 @@ const Reviews = () => {
     const DevItReview = [
         {
             id: 1,
-            headText: "Bojan and Brendan worked together through Talent Marketplace",
+            headText: "Bojan and Work&Earnn worked together through Talent Marketplace",
 
             subHeadFirst: "client",
             desFirst: "Excellent work by Bojan. He definitely knows his way around ClickFunnels and how to create eye-catching designs that should convert well.",
-            nameFirst: "Brendan B.",
+            nameFirst: "Work&Earnn B.",
             coutryFirst: "Singapore",
 
             subHeadSesond: "Talent",
@@ -602,11 +602,11 @@ const Reviews = () => {
     const WriTrReview = [
         {
             id: 1,
-            headText: "Bojan and Brendan worked together through Talent Marketplace",
+            headText: "Bojan and Work&Earnn worked together through Talent Marketplace",
 
             subHeadFirst: "client",
             desFirst: "Excellent work by Bojan. He definitely knows his way around ClickFunnels and how to create eye-catching designs that should convert well.",
-            nameFirst: "Brendan B.",
+            nameFirst: "Work&Earnn B.",
             coutryFirst: "Singapore",
 
             subHeadSesond: "Talent",
@@ -812,11 +812,11 @@ const Reviews = () => {
     const FinAcReview = [
         {
             id: 1,
-            headText: "Bojan and Brendan worked together through Talent Marketplace",
+            headText: "Bojan and Work&Earnn worked together through Talent Marketplace",
 
             subHeadFirst: "client",
             desFirst: "Excellent work by Bojan. He definitely knows his way around ClickFunnels and how to create eye-catching designs that should convert well.",
-            nameFirst: "Brendan B.",
+            nameFirst: "Work&Earnn B.",
             coutryFirst: "Singapore",
 
             subHeadSesond: "Talent",
@@ -1161,7 +1161,7 @@ const Reviews = () => {
         <div className="min-h-screen flex flex-col">
 
             {/* ============== Head Tag =============== */}
-            <HeadTag title="Review on Brenda"/>
+            <HeadTag title="Review on Work&Earn"/>
 
             {/* ============= Header ================ */}
             <header className="header-bg">
@@ -1177,7 +1177,7 @@ const Reviews = () => {
                                 animate={{y:0, opacity:1}}
                                 transition={{duration:1}}
                             >
-                                Reviews on Brenda
+                                Reviews on Work&Earn
                             </motion.h2>
                             <motion.p className="xl:text-xl text-lg text-zinc-700 lg:mt-5 mt-2"
                                 initial={{y:"100%", opacity:0}}
@@ -1194,7 +1194,7 @@ const Reviews = () => {
                                     animate={{x:0, opacity:1}}
                                     transition={{duration:1}}
                                 >
-                                    Join Brenda
+                                    Join Work&Earn
                                 </motion.button>
                             </div>
                         </div>
@@ -1790,7 +1790,7 @@ const Reviews = () => {
                         transition={{duration:1}}
                     >
                         <h2 className="text-zinc-800 xl:text-4xl text-3xl font-semibold">
-                            See how businesses get work done on Brenda
+                            See how businesses get work done on Work&Earn
                         </h2>
 
                         <div className="flex lg:flex-row flex-col justify-center lg:mt-14 mt-10 2xl:space-x-9 xl:space-x-7 lg:space-x-5 lg:space-y-0 space-y-3">
@@ -1964,7 +1964,7 @@ const Reviews = () => {
                                         Collaborate easily
                                     </h5>
                                     <p className="text-zinc-500 text-[17px] font-semibold mt-1">
-                                        Use Brenda to chat or video call, share files, and track project progress right from the app.
+                                        Use Work&Earn to chat or video call, share files, and track project progress right from the app.
                                     </p>
                                 </div>
                             </div>
@@ -1984,7 +1984,7 @@ const Reviews = () => {
                                         Payment simplified
                                     </h5>
                                     <p className="text-zinc-500 text-[17px] font-semibold mt-1">
-                                        Receive invoices and make payments through Brenda. Only pay for work you authorize.                                
+                                        Receive invoices and make payments through Work&Earn. Only pay for work you authorize.                                
                                     </p>
                                 </div>
                             </div>
@@ -2090,7 +2090,7 @@ const Reviews = () => {
                         <div className="lg:px-7 sm:px-5 px-0 sm:py-5 py-3">
                             <div className="border-b border-zinc-300 xl:py-7 sm:py-5 py-3 space-y-2">
                                 <h4 className="xl:text-3xl sm:text-2xl text-xl font-semibold text-zinc-800">
-                                    How to get reviews on Brenda?
+                                    How to get reviews on Work&Earn?
                                 </h4>
                                 <p className="text-zinc-600 xl:text-xl sm:text-lg text-md">
                                     A 14-day feedback period opens at the end of a contract where both the client and talent can leave each other a review. The client is asked to give a review as part of ending the contract and most clients do. The review won’t be visible until both the client and talent leave a review or the 14-day feedback period ends.
@@ -2099,7 +2099,7 @@ const Reviews = () => {
 
                             <div className="border-b border-zinc-300 xl:py-7 sm:py-5 py-3 space-y-2">
                                 <h4 className="xl:text-3xl sm:text-2xl text-xl font-semibold text-zinc-800">
-                                    How to leave a review on Brenda?
+                                    How to leave a review on Work&Earn?
                                 </h4>
                                 <p className="text-zinc-600 xl:text-xl text-lg text-md">
                                     During the 14-day feedback period at the end of a contract, the client will be asked to leave a review while ending the contract. As the talent, you can also leave a review for the client by looking at your ended contracts within that same 14-day feedback period. The review will be public once both of you leave one for each other or the 14-day period ends.
@@ -2108,10 +2108,10 @@ const Reviews = () => {
 
                             <div className="border-b border-zinc-300 xl:py-7 sm:py-5 py-3 space-y-2">
                                 <h4 className="xl:text-3xl sm:text-2xl text-xl font-semibold text-zinc-800">
-                                    How to contest a review on Brenda?
+                                    How to contest a review on Work&Earn?
                                 </h4>
                                 <p className="text-zinc-600 xl:text-xl sm:text-lg text-md">
-                                    There’s a few ways to change how your review appears on Brenda starting with responding to a review. Within 28 days of the end of the contract, you can post a follow-up comment to a review about you that will show up on your public profile. You can also work directly with your client or talent to enable feedback changes and revise the review. If you feel the review violates Brenda’s terms of service and you would like to dispute a review, Brenda’s customer service team is there to help.
+                                    There’s a few ways to change how your review appears on Work&Earn starting with responding to a review. Within 28 days of the end of the contract, you can post a follow-up comment to a review about you that will show up on your public profile. You can also work directly with your client or talent to enable feedback changes and revise the review. If you feel the review violates Work&Earn’s terms of service and you would like to dispute a review, Work&Earn’s customer service team is there to help.
                                 </p>
                             </div>
                         </div>
@@ -2148,7 +2148,7 @@ const Reviews = () => {
                                         className="border border-gray-100 text-white px-4 lg:py-2 py-1 rounded-full font-semibold transition hover:text-gray-100 hover:border-gray-300"
                                         onClick={() => router.push("#")}
                                     >
-                                        Join Brenda
+                                        Join Work&Earn
                                     </button>
                                </div>
                             </div>

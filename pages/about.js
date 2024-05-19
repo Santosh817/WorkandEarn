@@ -13,7 +13,7 @@ const About = () => {
         <div className="min-h-screen flex flex-col">
 
             {/* ============== Head Tag =============== */}
-            <HeadTag title="About us | Brenda"/>
+            <HeadTag title="About us | Work&Earn"/>
 
             {/* ================= Header ================= */}
             <header className="header-bg">

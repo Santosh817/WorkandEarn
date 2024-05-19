@@ -1181,7 +1181,7 @@ const Wordpress = () => {
         <div className="min-h-screen flex flex-col">
 
             {/* ============== Head Tag =============== */}
-            <HeadTag title="Wordpress service | Brenda"/>
+            <HeadTag title="Wordpress service | Work&Earn"/>
 
             {/* ================= Header ================= */}
             <header className="header-bg">

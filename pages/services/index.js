@@ -528,7 +528,7 @@ const Services = () => {
         <div className="min-h-screen flex flex-col">
 
             {/* ============== Head Tag =============== */}
-            <HeadTag title="Project Catalog - Freelance Services for Your Business | Brenda"/>
+            <HeadTag title="Project Catalog - Freelance Services for Your Business | Work&Earn"/>
              
             {/* ================= Header ================= */}
             <header className="header-bg">

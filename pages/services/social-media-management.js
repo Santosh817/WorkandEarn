@@ -1181,7 +1181,7 @@ const SocialMediaManagment = () => {
         <div className="min-h-screen flex flex-col">
 
             {/* ============== Head Tag =============== */}
-            <HeadTag title="Social Media Management Services | Brenda"/>
+            <HeadTag title="Social Media Management Services | Work&Earn"/>
 
             {/* ================= Header ================= */}
             <header className="header-bg">

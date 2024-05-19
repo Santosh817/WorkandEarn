@@ -114,7 +114,7 @@ const Staffing = () => {
             },
             name: "Maria S.",
             profText: "Senior Front-end developer with over 11 years of experience",
-            text: '"Brenda has taken my business to the next level. Through Brenda, I have engaged with many high quality clients that I would not have been exposed to by my own means." '
+            text: '"Work&Earn has taken my business to the next level. Through Work&Earn, I have engaged with many high quality clients that I would not have been exposed to by my own means." '
         },
 
         {
@@ -125,7 +125,7 @@ const Staffing = () => {
             },
             name: "Stephen K.",
             profText: "Certified Magento, Shopify and BigCommerce Developer",
-            text: '"I was able to triple my income because of Brenda. I love the chance I have to learn and grow my business through the platform."'
+            text: '"I was able to triple my income because of Work&Earn. I love the chance I have to learn and grow my business through the platform."'
         },
 
         {
@@ -136,7 +136,7 @@ const Staffing = () => {
             },
             name: "Josh B.",
             profText: "SQL Server DBA | SQL Developer | Data Engineer",
-            text: '"I wake up every day and get to do work I love because of Brenda. Ive worked over 8,000 hours on Brenda and it barely feels like it because I love what I do"'
+            text: '"I wake up every day and get to do work I love because of Work&Earn. Ive worked over 8,000 hours on Work&Earn and it barely feels like it because I love what I do"'
         },
 
         {
@@ -147,7 +147,7 @@ const Staffing = () => {
             },
             name: "Ron Z.",
             profText: "Premium WordPress Development",
-            text: '"Brenda has proven to be the best way for me to find high-quality clients and exciting work."'
+            text: '"Work&Earn has proven to be the best way for me to find high-quality clients and exciting work."'
         },
 
         {
@@ -158,7 +158,7 @@ const Staffing = () => {
             },
             name: "Maria N.",
             profText: "Premium websites for premium clients",
-            text: '"My goal in 2021 is to reach $1M in earnings on Brenda. That said, I am very grateful for the opportunity that Brenda has created for professionals. '
+            text: '"My goal in 2021 is to reach $1M in earnings on Work&Earn. That said, I am very grateful for the opportunity that Work&Earn has created for professionals. '
         },
     ];
 
@@ -621,7 +621,7 @@ const Staffing = () => {
                                 When you need to move important work forward, working with Talent Scout makes finding the highly skilled talent you need easy, fast, and cost effective. 
                             </p>
                             <p className={`mt-2 text-zinc-600 xl:text-xl sm:text-lg text-md ${(showQues == true) ? "block" : "hidden"}`}>
-                                Our specialized recruiters have experience in the legal industry that enables them to do the heavy lifting on your behalf. In as few as two days, they’ll get back to you with a curated list of pre-vetted remote professionals who tick all the right boxes, selected from the global pool of talent on Brenda.
+                                Our specialized recruiters have experience in the legal industry that enables them to do the heavy lifting on your behalf. In as few as two days, they’ll get back to you with a curated list of pre-vetted remote professionals who tick all the right boxes, selected from the global pool of talent on Work&Earn.
                             </p>
                             <p className={`mt-2 text-zinc-600 xl:text-xl sm:text-lg text-md ${(showQues == true) ? "block" : "hidden"}`}>
                                 You don’t pay until you choose a professional who’s a good match for your project, and  you avoid the high fees and markups that are typical for traditional recruiting firms.

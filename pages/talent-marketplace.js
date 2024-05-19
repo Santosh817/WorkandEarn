@@ -19,7 +19,7 @@ const TalentMarketplace = () => {
     return (
         <div className="min-h-screen flex flex-col">
             {/* ============== Head Tag =============== */}
-            <HeadTag title="Talent Marketplace - Post a Job - Talent Marketplace | Brenda"/>
+            <HeadTag title="Talent Marketplace - Post a Job - Talent Marketplace | Work&Earn"/>
 
             {/* ================= Header ================= */}
             <header className="header-bg">
@@ -168,7 +168,7 @@ const TalentMarketplace = () => {
                                     </span>
                                     <div>
                                         <h3 className="text-zinc-800 font-semibold md:text-lg text-md">
-                                            Brenda Payment Protection
+                                            Work&Earn Payment Protection
                                         </h3>
                                         <p className="text-zinc-700 lg:text-lg text-md">
                                             Gives you security and peace of mind
@@ -368,7 +368,7 @@ const TalentMarketplace = () => {
                                 </h2>
                                 <ul className="flex flex-col space-y-2">
                                     <li className="list-disc text-zinc-700 font-semibold xl:text-lg">
-                                        Get an extra level of security with Brenda Payment Protection   
+                                        Get an extra level of security with Work&Earn Payment Protection   
                                     </li>
                                     <li className="list-disc text-zinc-700 font-semibold xl:text-lg">
                                         Pay as you go billing for milestone and hourly contracts 

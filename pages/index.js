@@ -25,7 +25,7 @@ export default function Home() {
     <div className="min-h-screen flex flex-col">
 
       {/* ============== Head Tag =============== */}
-      <HeadTag title="Brenda - The World's Work Marketplace"/>
+      <HeadTag title="Work&Earn - The World's Work Marketplace"/>
 
       {/* ================= Header ================= */}
       <header className="header-bg">
@@ -190,7 +190,7 @@ export default function Home() {
                 transition={{duration:1}}
               >
                 Why business <br/>
-                turn to Brenda
+                turn to Work&Earn
               </motion.h2>
 
               <motion.div className="flex md:ml-3 ml-0 space-x-5 items-start mt-7"
@@ -399,7 +399,7 @@ export default function Home() {
                 </div>
               
                 <span className="text-white font-semibold xl:text-2xl text-xl mt-5">
-                    “Brenda enables us to differentiate 
+                    “Work&Earn enables us to differentiate 
                     ourselves from our competitors and 
                     produce content at a higher caliber.”
                 </span>

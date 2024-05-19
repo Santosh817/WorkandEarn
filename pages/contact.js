@@ -11,7 +11,7 @@ const Contact = () => {
         <div className="min-h-screen flex flex-col">
 
             {/* ============== Head Tag =============== */}
-            <HeadTag title="Contact Us | Brenda"/>
+            <HeadTag title="Contact Us | Work&Earn"/>
 
               {/* ================= Header ================= */}
             <header className="header-bg">
@@ -86,7 +86,7 @@ const Contact = () => {
 
                                                 <Link href="#">
                                                     <a className="text-blue-800 font-semibold underline flex items-center transition hover:text-blue-900">
-                                                        press@brenda.com
+                                                        press@Work&Earn.com
                                                         <FiArrowRight className="mt-1 ml-1"/>
                                                     </a>
                                                 </Link>

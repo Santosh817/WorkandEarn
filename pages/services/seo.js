@@ -1181,7 +1181,7 @@ const SEO = () => {
         <div className="min-h-screen flex flex-col">
 
             {/* ============== Head Tag =============== */}
-            <HeadTag title="Search Engine Optimization Service | Brenda"/>
+            <HeadTag title="Search Engine Optimization Service | Work&Earn"/>
 
             {/* ================= Header ================= */}
             <header className="header-bg">

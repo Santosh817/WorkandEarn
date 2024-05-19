@@ -108,7 +108,7 @@ const SubLinks2 = [
     }
 ];
 
-// ====================== Sublinks for Why Brenda ==========================
+// ====================== Sublinks for Why Work&Earn ==========================
 const SubLinks3 = [
     {
         id: 1,
